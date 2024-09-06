@@ -1,0 +1,8 @@
+{
+  "updates": {
+      "latest-version": "2.2",
+      "download-url": "app_dfu_package_2.2.zip",
+      "changelog": "----",
+      "mandatory": true
+    }
+  }
